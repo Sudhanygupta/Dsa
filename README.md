@@ -8,7 +8,7 @@ Understanding the working and functionality of these DSA concepts in java.
 
 Questions solved using Striver DSA Datasheet.
 
-https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/ - Link to the data sheet.
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/ - Link to the data .
 
 [https://github.com/Sudhanygupta](https://github.com/Sudhanygupta/Dsa) - Link to the GitHub repository for the implementation.
 
