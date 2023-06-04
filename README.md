@@ -10,5 +10,5 @@ Questions solved using Striver DSA Datasheet.
 
 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/ - Link to the datasheet .
 
-[https://github.com/Sudhanygupta](https://github.com/Sudhanygupta/Dsa) - Link to the GitHub repository for the implementatio
+[https://github.com/Sudhanygupta](https://github.com/Sudhanygupta/Dsa) - Link to the GitHub repository for the implementation.
 
