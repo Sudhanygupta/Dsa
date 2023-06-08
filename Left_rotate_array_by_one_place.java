@@ -1,6 +1,7 @@
 import java.util.*;
 
 class Left_rotate_array_by_one_place{
+    
     static void solve(int arr[], int n) {
         int temp = arr[0]; // storing the first element of array in a variable
         for (int i = 0; i < n - 1; i++) {
