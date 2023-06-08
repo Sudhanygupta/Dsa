@@ -9,6 +9,8 @@ class Left_rotate_array_by_one_place{
         arr[n - 1] = temp; // assigned the value of variable at the last index
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i]+" ");
+            
+
         }
 
 
