@@ -1,7 +1,7 @@
 public class move_zero_to_end {
     public static void main(String[] args) {
         int arr[] ={ 1,2,0,1,0,4,0};
-        zerosToEnd(arr)
+        zerosToEnd(arr);
 
     }
     public static void zerosToEnd(int[] arr) {
