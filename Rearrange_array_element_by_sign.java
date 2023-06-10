@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 
 class Rearrange_array_element_by_sign{
 
