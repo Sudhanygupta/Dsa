@@ -1,4 +1,4 @@
-package Experiment2
+package Experiment2;
 
 import java.util.*;
 
