@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*
 public class Remove_duplicate_from_sorted_array {
 
 
