@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Rearrange_array_element_by_sign
+class Rearrange_array_element_by_sign{
 
     public static int[] RearrangebySign(int[] A, int n){
 
