@@ -9,9 +9,9 @@ public class majority_element {
         // HashMap<Integer, Integer> mpp = new HashMap<>();
 
         //storing the elements with its occurnce:
-        for (int i = 0; i < n; i++) {
-            int value = mpp.getOrDefault(v[i], 0);
-            mpp.put(v[i], value + 1);
+        // for (int i = 0; i < n; i++) {
+        //     int value = mpp.getOrDefault(v[i], 0);
+        //     mpp.put(v[i], value + 1);
         }
 
         //searching for the majority element:
