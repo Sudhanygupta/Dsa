@@ -5,7 +5,7 @@ public class majority_element {
         //size of the given array:
         int n = v.length;
 
-        //declaring a map:
+        declaring a map:
         HashMap<Integer, Integer> mpp = new HashMap<>();
 
         //storing the elements with its occurnce:
